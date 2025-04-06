@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "ToDoListApp.Controllers.ToDoController",
+    "Method": "Get",
+    "RelativePath": "api/ToDo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ToDoListApp.models.ToDoItem, ToDoListApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ToDoListApp.Controllers.ToDoController",
+    "Method": "Post",
+    "RelativePath": "api/ToDo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "toDo",
+        "Type": "ToDoListApp.models.ToDoItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoListApp.Controllers.ToDoController",
+    "Method": "Put",
+    "RelativePath": "api/ToDo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "toDo",
+        "Type": "ToDoListApp.models.ToDoItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoListApp.Controllers.ToDoController",
+    "Method": "Delete",
+    "RelativePath": "api/ToDo/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoListApp.Controllers.ToDoController",
+    "Method": "GetToDoByCompleted",
+    "RelativePath": "api/ToDo/GetToDoByCompleted/{isCompleteted}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "isCompleteted",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoListApp.Controllers.ToDoController",
+    "Method": "GetToDoById",
+    "RelativePath": "api/ToDo/GetToDoById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

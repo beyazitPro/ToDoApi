@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\beyso\\onedrive\\masa\u00FCst\u00FC\\c#\\todolistapp\\todolistapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\beyso\\onedrive\\masa\u00FCst\u00FC\\c#\\todolistapp\\todolistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\beyso\\onedrive\\masa\u00FCst\u00FC\\c#\\todolistapp\\todolistapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\beyso\\onedrive\\masa\u00FCst\u00FC\\c#\\todolistapp\\todolistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\beyso\\onedrive\\masa\u00FCst\u00FC\\c#\\todolistapp\\todolistapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\ToDoListApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ToDoListApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\ToDoListApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ToDoListApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T09:01:50.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\ToDoListApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoListApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\ToDoListApp\\appsettings.json",
+              "RelativeToolTip": "ToDoListApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T09:01:36.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\ToDoListApp\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\ToDoListApp\\Controllers\\ToDoController.cs*",
+              "RelativeToolTip": "ToDoListApp\\Controllers\\ToDoController.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:34:33.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\ToDoListApp\\models\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\models\\ToDoItem.cs",
+              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\ToDoListApp\\models\\ToDoItem.cs",
+              "RelativeToolTip": "ToDoListApp\\models\\ToDoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:30:05.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\ToDoListApp\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\Program.cs",
+              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\ToDoListApp\\Program.cs",
+              "RelativeToolTip": "ToDoListApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:29:19.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
