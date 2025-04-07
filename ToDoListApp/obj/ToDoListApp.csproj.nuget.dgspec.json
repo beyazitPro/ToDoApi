@@ -1,0 +1,344 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\ToDoApi-main\\ToDoListApp\\ToDoListApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj",
+        "projectName": "TodoAppDataAccess",
+        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj",
+        "packagesPath": "C:\\Users\\beyso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\beyso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj": {
+                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppBussines\\TodoAppBussines.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppBussines\\TodoAppBussines.csproj",
+        "projectName": "TodoAppBussines",
+        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppBussines\\TodoAppBussines.csproj",
+        "packagesPath": "C:\\Users\\beyso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppBussines\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\beyso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj": {
+                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj"
+              },
+              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj": {
+                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj",
+        "projectName": "TodoAppEntities",
+        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj",
+        "packagesPath": "C:\\Users\\beyso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\beyso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\ToDoApi-main\\ToDoListApp\\ToDoListApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\ToDoApi-main\\ToDoListApp\\ToDoListApp.csproj",
+        "projectName": "ToDoListApp",
+        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\ToDoApi-main\\ToDoListApp\\ToDoListApp.csproj",
+        "packagesPath": "C:\\Users\\beyso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\ToDoApi-main\\ToDoListApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\beyso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj": {
+                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj"
+              },
+              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppBussines\\TodoAppBussines.csproj": {
+                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppBussines\\TodoAppBussines.csproj"
+              },
+              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj": {
+                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

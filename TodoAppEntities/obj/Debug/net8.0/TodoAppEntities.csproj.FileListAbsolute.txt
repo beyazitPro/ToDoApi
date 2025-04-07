@@ -1,0 +1,15 @@
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\bin\Debug\net8.0\TodoAppEntities.deps.json
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\bin\Debug\net8.0\TodoAppEntities.runtimeconfig.json
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\bin\Debug\net8.0\TodoAppEntities.dll
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\bin\Debug\net8.0\TodoAppEntities.pdb
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\obj\Debug\net8.0\TodoAppEntities.csproj.AssemblyReference.cache
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\obj\Debug\net8.0\TodoAppEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\obj\Debug\net8.0\TodoAppEntities.AssemblyInfoInputs.cache
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\obj\Debug\net8.0\TodoAppEntities.AssemblyInfo.cs
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\obj\Debug\net8.0\TodoAppEntities.csproj.CoreCompileInputs.cache
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\obj\Debug\net8.0\TodoAppEntities.sourcelink.json
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\obj\Debug\net8.0\TodoAppEntities.dll
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\obj\Debug\net8.0\refint\TodoAppEntities.dll
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\obj\Debug\net8.0\TodoAppEntities.pdb
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\obj\Debug\net8.0\TodoAppEntities.genruntimeconfig.cache
+C:\Users\beyso\OneDrive\Masaüstü\C#\ToDoListApp\TodoAppEntities\obj\Debug\net8.0\ref\TodoAppEntities.dll
