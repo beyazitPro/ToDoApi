@@ -56,6 +56,16 @@ namespace TodoAppDataAccess.concrete
             }
         }
 
+        public List<TodoItem> GetTodoByUser(int UserId)
+        {
+            using (var todoDbContext = new TodoDbContext())
+            {
+                return todoDbContext.Todo
+                    .Where(t => t.UserId==UserId)
+                    .ToList();
+            }
+        }
+
         public TodoItem UpdateTodo(TodoItem todo)
         {
             using (var TodoDbContext = new TodoDbContext())

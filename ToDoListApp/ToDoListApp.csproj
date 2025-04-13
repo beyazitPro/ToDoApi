@@ -12,9 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\C#\ToDoListApp\Todo.DataAccess\TodoAppDataAccess.csproj" />
-    <ProjectReference Include="..\..\C#\ToDoListApp\TodoAppBussines\TodoAppBussines.csproj" />
-    <ProjectReference Include="..\..\C#\ToDoListApp\TodoAppEntities\TodoAppEntities.csproj" />
+    <ProjectReference Include="..\TodoAppBussines\TodoAppBussines.csproj" />
+    <ProjectReference Include="..\TodoAppEntities\TodoAppEntities.csproj" />
   </ItemGroup>
 
 </Project>

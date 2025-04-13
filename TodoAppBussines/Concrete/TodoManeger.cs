@@ -45,6 +45,11 @@ namespace TodoAppBussines.Concrete
 
         }
 
+        public List<TodoItem> GetTodoByUser(int UserId)
+        {
+            return _Repository.GetTodoByUser(UserId);
+        }
+
         public TodoItem UpdateTodo(TodoItem todo)
         {
             return _Repository.UpdateTodo(todo);

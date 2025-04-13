@@ -1,25 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\ToDoApi-main\\",
+  "WorkspaceRootPath": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\beyso\\onedrive\\masa\u00FCst\u00FC\\todoapi-main\\todolistapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\beyso\\onedrive\\masa\u00FCst\u00FC\\c#\\todoapi\\todolistapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\beyso\\onedrive\\masa\u00FCst\u00FC\\todoapi-main\\todolistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9A68FFC-DC7E-6E81-46A2-B3D9FB094F23}|TodoAppBussines\\TodoAppBussines.csproj|c:\\users\\beyso\\onedrive\\masa\u00FCst\u00FC\\c#\\todoapi\\todoappbussines\\concrete\\todomaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A68FFC-DC7E-6E81-46A2-B3D9FB094F23}|TodoAppBussines\\TodoAppBussines.csproj|solutionrelative:todoappbussines\\concrete\\todomaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\beyso\\onedrive\\masa\u00FCst\u00FC\\todoapi-main\\todolistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{05918232-7A8A-FCDE-C17B-A9B05D154594}|Todo.DataAccess\\TodoAppDataAccess.csproj|c:\\users\\beyso\\onedrive\\masa\u00FCst\u00FC\\c#\\todoapi\\todo.dataaccess\\abstract\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05918232-7A8A-FCDE-C17B-A9B05D154594}|Todo.DataAccess\\TodoAppDataAccess.csproj|solutionrelative:todo.dataaccess\\abstract\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\beyso\\onedrive\\masa\u00FCst\u00FC\\todoapi-main\\todolistapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F17CA39B-3252-44B9-A6C0-30BB14BBFD4F}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\ToDoListApp\\models\\ToDoItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05918232-7A8A-FCDE-C17B-A9B05D154594}|Todo.DataAccess\\TodoAppDataAccess.csproj|c:\\users\\beyso\\onedrive\\masa\u00FCst\u00FC\\c#\\todoapi\\todo.dataaccess\\concrete\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05918232-7A8A-FCDE-C17B-A9B05D154594}|Todo.DataAccess\\TodoAppDataAccess.csproj|solutionrelative:todo.dataaccess\\concrete\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,68 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\ToDoApi-main\\ToDoListApp\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ToDoListApp\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\ToDoApi-main\\ToDoListApp\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ToDoListApp\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-06T09:01:50.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\ToDoApi-main\\ToDoListApp\\appsettings.json",
-              "RelativeDocumentMoniker": "ToDoListApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\ToDoApi-main\\ToDoListApp\\appsettings.json",
-              "RelativeToolTip": "ToDoListApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-06T09:01:36.338Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ToDoController.cs",
-              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\ToDoApi-main\\ToDoListApp\\Controllers\\ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoApi\\ToDoListApp\\Controllers\\ToDoController.cs",
               "RelativeDocumentMoniker": "ToDoListApp\\Controllers\\ToDoController.cs",
-              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\ToDoApi-main\\ToDoListApp\\Controllers\\ToDoController.cs",
-              "RelativeToolTip": "ToDoListApp\\Controllers\\ToDoController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAiwE0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoApi\\ToDoListApp\\Controllers\\ToDoController.cs*",
+              "RelativeToolTip": "ToDoListApp\\Controllers\\ToDoController.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T19:34:33.344Z",
+              "WhenOpened": "2025-04-13T14:01:30.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ToDoItem.cs",
-              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\ToDoListApp\\models\\ToDoItem.cs",
-              "RelativeDocumentMoniker": "..\\C#\\ToDoListApp\\ToDoListApp\\models\\ToDoItem.cs",
-              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoListApp\\ToDoListApp\\models\\ToDoItem.cs",
-              "RelativeToolTip": "..\\C#\\ToDoListApp\\ToDoListApp\\models\\ToDoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TodoManeger.cs",
+              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoApi\\TodoAppBussines\\Concrete\\TodoManeger.cs",
+              "RelativeDocumentMoniker": "TodoAppBussines\\Concrete\\TodoManeger.cs",
+              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoApi\\TodoAppBussines\\Concrete\\TodoManeger.cs",
+              "RelativeToolTip": "TodoAppBussines\\Concrete\\TodoManeger.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA0wDEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T19:30:05.624Z"
+              "WhenOpened": "2025-04-13T14:01:00.237Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\ToDoApi-main\\ToDoListApp\\Program.cs",
-              "RelativeDocumentMoniker": "ToDoListApp\\Program.cs",
-              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\ToDoApi-main\\ToDoListApp\\Program.cs",
-              "RelativeToolTip": "ToDoListApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoApi\\Todo.DataAccess\\Abstract\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "Todo.DataAccess\\Abstract\\ITodoRepository.cs",
+              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoApi\\Todo.DataAccess\\Abstract\\ITodoRepository.cs",
+              "RelativeToolTip": "Todo.DataAccess\\Abstract\\ITodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T18:29:19.099Z"
+              "WhenOpened": "2025-04-13T14:00:13.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoApi\\Todo.DataAccess\\concrete\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "Todo.DataAccess\\concrete\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\beyso\\OneDrive\\Masa\u00FCst\u00FC\\C#\\ToDoApi\\Todo.DataAccess\\concrete\\TodoRepository.cs",
+              "RelativeToolTip": "Todo.DataAccess\\concrete\\TodoRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:56:21.335Z",
+              "EditorCaption": ""
             }
           ]
         }

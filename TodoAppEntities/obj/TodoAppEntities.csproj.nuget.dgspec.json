@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj": {}
+    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\TodoAppEntities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj": {
+    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\TodoAppEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj",
+        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\TodoAppEntities.csproj",
         "projectName": "TodoAppEntities",
-        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj",
+        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\TodoAppEntities.csproj",
         "packagesPath": "C:\\Users\\beyso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\obj\\",
+        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,12 +76,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -32,6 +32,16 @@ namespace ToDoListApp.Controllers
         }
 
         [HttpGet]
+        [Route("[action]/{id}")]
+        public IActionResult GetToDoByUser(int id)
+        {
+            var todoItem = _todoService.GetTodoByUser(id);
+            if (todoItem != null)
+                return Ok(todoItem);
+            return NotFound();
+        }
+
+        [HttpGet]
         [Route("[action]/")]
         public IActionResult GetToDoByCompleted()
         {

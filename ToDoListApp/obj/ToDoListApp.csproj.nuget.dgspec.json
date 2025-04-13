@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\ToDoApi-main\\ToDoListApp\\ToDoListApp.csproj": {}
+    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\ToDoListApp\\ToDoListApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj": {
+    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\Todo.DataAccess\\TodoAppDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\Todo.DataAccess\\TodoAppDataAccess.csproj",
         "projectName": "TodoAppDataAccess",
-        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj",
+        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\Todo.DataAccess\\TodoAppDataAccess.csproj",
         "packagesPath": "C:\\Users\\beyso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\Todo.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj": {
-                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj"
+              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\TodoAppEntities.csproj": {
+                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\TodoAppEntities.csproj"
               }
             }
           }
@@ -84,23 +84,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppBussines\\TodoAppBussines.csproj": {
+    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppBussines\\TodoAppBussines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppBussines\\TodoAppBussines.csproj",
+        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppBussines\\TodoAppBussines.csproj",
         "projectName": "TodoAppBussines",
-        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppBussines\\TodoAppBussines.csproj",
+        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppBussines\\TodoAppBussines.csproj",
         "packagesPath": "C:\\Users\\beyso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppBussines\\obj\\",
+        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppBussines\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,11 +135,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj": {
-                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj"
+              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\Todo.DataAccess\\TodoAppDataAccess.csproj": {
+                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\Todo.DataAccess\\TodoAppDataAccess.csproj"
               },
-              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj": {
-                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj"
+              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\TodoAppEntities.csproj": {
+                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\TodoAppEntities.csproj"
               }
             }
           }
@@ -162,23 +176,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj": {
+    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\TodoAppEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj",
+        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\TodoAppEntities.csproj",
         "projectName": "TodoAppEntities",
-        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj",
+        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\TodoAppEntities.csproj",
         "packagesPath": "C:\\Users\\beyso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\obj\\",
+        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -243,23 +271,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\ToDoApi-main\\ToDoListApp\\ToDoListApp.csproj": {
+    "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\ToDoListApp\\ToDoListApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\ToDoApi-main\\ToDoListApp\\ToDoListApp.csproj",
+        "projectUniqueName": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\ToDoListApp\\ToDoListApp.csproj",
         "projectName": "ToDoListApp",
-        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\ToDoApi-main\\ToDoListApp\\ToDoListApp.csproj",
+        "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\ToDoListApp\\ToDoListApp.csproj",
         "packagesPath": "C:\\Users\\beyso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\ToDoApi-main\\ToDoListApp\\obj\\",
+        "outputPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\ToDoListApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -280,14 +322,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj": {
-                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\Todo.DataAccess\\TodoAppDataAccess.csproj"
+              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppBussines\\TodoAppBussines.csproj": {
+                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppBussines\\TodoAppBussines.csproj"
               },
-              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppBussines\\TodoAppBussines.csproj": {
-                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppBussines\\TodoAppBussines.csproj"
-              },
-              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj": {
-                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoListApp\\TodoAppEntities\\TodoAppEntities.csproj"
+              "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\TodoAppEntities.csproj": {
+                "projectPath": "C:\\Users\\beyso\\OneDrive\\Masaüstü\\C#\\ToDoApi\\TodoAppEntities\\TodoAppEntities.csproj"
               }
             }
           }
@@ -328,6 +367,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -336,7 +393,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

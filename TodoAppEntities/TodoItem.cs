@@ -10,13 +10,12 @@ namespace TodoAppEntities
 {
     public class TodoItem
     {
-        [Key,DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int id { get; set; }
-        [StringLength(50)]
         public string title { get; set; }
-        [StringLength(100)]
         public string description { get; set; }
-        [Required]
         public bool isCompleted { get; set; }
+        public int UserId { get; set; }
+        public User? User { get; set; }
     }
 }
+

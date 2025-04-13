@@ -11,6 +11,7 @@ namespace TodoAppDataAccess.Abstract
     {
         List<TodoItem> GetAllTodo();
         List<TodoItem> GetTodoByCompleted();
+        List<TodoItem> GetTodoByUser(int UserId);
         TodoItem GetTodoById(int id);
         TodoItem CreateTodo(TodoItem todo);
         TodoItem UpdateTodo(TodoItem todo);
